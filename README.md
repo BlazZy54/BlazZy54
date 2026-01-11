@@ -2,17 +2,18 @@
     
 <h1 align="left">Hi 👋🏽, Mayank here</h1>
 
-
 <h3 align="left">Passionate about programming and modern technology 🚀</h3>
-
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 Currently learning: <b>Front-end development with React.js & TypeScript</b></p>
+        <p>• 📚 Currently learning: <b>Full-stack development with the MERN stack </b></p>
         <p>• ℹ️ Interests: <b>Coding 💻 | Music 🎧 | Gaming 🎮 | Fitness 🏃</b></p>
-        <p>• 💬 Ask me about: <b>Web development, JavaScript, React, and modern front-end tools</b></p>
+        <p>• 💬 Ask me about: <b>Data Structures, Algorithms, and full-stack development with MERN</b></p>
         <p>• 📫 Reach me at: <b>iamayanksk@gmail.com</b></p>
 </div><br>
+
+
+
 
 
     
