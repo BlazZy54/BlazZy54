@@ -9,7 +9,7 @@
         <p>• 📚 Currently learning: <b>Full-stack development with the MERN stack </b></p>
         <p>• ℹ️ Interests: <b>Coding 💻 | Music 🎧 | Gaming 🎮 | Fitness 🏃</b></p>
         <p>• 💬 Ask me about: <b>Data Structures, Algorithms, and full-stack development with MERN</b></p>
-        <p>• 📫 Reach me at: <b>iamayanksk@gmail.com</b></p>
+        <p>• 📫 Reach me at: <b>iamayanksk@gmail.com</b> <b>mayanks.mca25@cs.du.ac.in</b> </p>
 </div><br>
 
 
